@@ -1,0 +1,30 @@
+FileVersion: 4
+Uuid: {8497c9f8-28a5-466d-b0eb-6019d41d70d5}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 28.35 119.06" style="enable-background:new 0 0 28.35 119.06;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+</g>
+<g id="C1_Expressway_Guidelines">
+</g>
+<g id="Layer_4">
+</g>
+<g id="Layer_3">
+	<g>
+		<path class="st0" d="M0-0.01v112.86c0,3.42,2.77,6.2,6.2,6.2h15.95c3.42,0,6.2-2.77,6.2-6.2V-0.01H0z M22.68,107.72H5.67V11.34
+			h17.01V107.72z"/>
+		<polygon class="st0" points="11.34,106.3 17.01,106.3 17.01,59.53 21.26,12.76 17.01,12.76 14.17,42.24 11.34,12.76 7.09,12.76 
+			11.34,59.53 		"/>
+	</g>
+</g>
+</svg>

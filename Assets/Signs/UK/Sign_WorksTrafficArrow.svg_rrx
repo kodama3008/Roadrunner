@@ -1,0 +1,124 @@
+FileVersion: 4
+Uuid: {947b9cc6-ef53-4390-8c61-27b2bc73facc}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 295.44 122.55" style="enable-background:new 0 0 295.44 122.55;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#0079C1;}
+	.st2{fill:#EC1D24;}
+	.st3{clip-path:url(#SVGID_00000000207714732185795300000007308100228593466545_);}
+	.st4{fill:none;stroke:#0079C1;stroke-width:10;}
+	.st5{clip-path:url(#SVGID_00000059308990048017987480000005454069762721537711_);}
+	.st6{fill:none;stroke:#0079C1;stroke-width:3.7514;}
+	.st7{fill:#FFFFFF;stroke:#0079C1;}
+	.st8{display:none;fill:#FFFFFF;}
+	.st9{fill:#FFFFFF;stroke:#29ABE2;stroke-miterlimit:10;}
+	.st10{fill:#FFFFFF;stroke:#0079C1;stroke-width:0.3;}
+	.st11{fill:none;stroke:#0079C1;stroke-miterlimit:10;}
+	.st12{fill:#E31E26;}
+	.st13{fill:#E10000;}
+	.st14{fill:#FFFFFF;stroke:#1478C7;stroke-width:6;}
+	.st15{fill:#1478C7;}
+	.st16{fill:#E22739;}
+	.st17{fill:#808080;}
+	.st18{fill:none;stroke:#000000;}
+	.st19{fill:#231F20;}
+	.st20{fill:#FFFFFF;stroke:#0079C1;stroke-width:3;}
+	.st21{fill:#FFD421;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-width:2.1836;}
+	.st23{fill:#FFFFFF;stroke:#000000;stroke-width:0.3;}
+	.st24{fill:none;stroke:#EC1D24;stroke-width:90;stroke-linejoin:round;}
+	.st25{fill:#FAFAFB;}
+	.st26{fill:none;stroke:#000000;stroke-width:0.18;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#231F20;stroke-width:0.5084;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#EC1D24;stroke-width:10;}
+	.st29{opacity:0.99;enable-background:new    ;}
+	.st30{fill:#4D9523;}
+	.st31{fill:#E31937;}
+	.st32{fill:#FFFFFF;stroke:#794400;}
+	.st33{fill:#794400;}
+	.st34{fill:#FFD200;}
+	.st35{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
+	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st37{fill:#EC1C24;}
+	.st38{fill:none;stroke:#0079C1;stroke-width:1.7;stroke-miterlimit:10;}
+	.st39{fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;}
+	.st40{fill-rule:evenodd;clip-rule:evenodd;fill:#BBBDBF;}
+	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#EC1C24;}
+	.st42{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD420;}
+	.st43{fill:none;stroke:#EC1C24;stroke-width:1.7;stroke-miterlimit:10;}
+	.st44{fill:none;stroke:#E03A3E;stroke-width:0.144;stroke-miterlimit:10;}
+	.st45{fill:none;stroke:#00703C;stroke-width:1.7;stroke-miterlimit:10;}
+	.st46{fill-rule:evenodd;clip-rule:evenodd;fill:#00703C;}
+	.st47{fill-rule:evenodd;clip-rule:evenodd;fill:#E31937;}
+	.st48{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;}
+	.st49{fill:none;stroke:#231F20;stroke-width:11.524;stroke-miterlimit:10;}
+	.st50{fill:none;stroke:#231F20;stroke-width:6;stroke-miterlimit:10;}
+	.st51{fill:none;stroke:#EE4431;stroke-width:0.428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st52{fill:#FF0000;}
+	.st53{clip-path:url(#SVGID_00000023251418719066726620000000402543950526637955_);fill:#ED1C24;}
+	.st54{fill:none;stroke:#0079C1;stroke-width:2.268;stroke-miterlimit:10;}
+	.st55{fill:none;stroke:#0079C1;stroke-width:2.268;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st56{fill:none;stroke:#794400;stroke-width:1.7;stroke-miterlimit:10;}
+	.st57{fill-rule:evenodd;clip-rule:evenodd;fill:#794400;}
+	.st58{fill:#FFFFFF;stroke:#000000;}
+	.st59{fill-rule:evenodd;clip-rule:evenodd;fill:#B2B4B7;}
+	.st60{fill-rule:evenodd;clip-rule:evenodd;fill:#E03A3E;}
+	.st61{fill:none;stroke:#231F20;stroke-width:4.32;stroke-miterlimit:10;}
+	.st62{fill:none;stroke:#231F20;stroke-width:4.468;stroke-miterlimit:10;}
+	.st63{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#0079C1;stroke-width:0.5669;stroke-miterlimit:10;}
+	.st64{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#5E9732;stroke-width:0.5669;stroke-miterlimit:10;}
+	.st65{fill-rule:evenodd;clip-rule:evenodd;fill:#5E9732;}
+	.st66{fill:none;stroke:#231F20;stroke-width:0.036;stroke-miterlimit:10;}
+	
+		.st67{clip-path:url(#SVGID_00000039856388181266630690000016769643418256266936_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#5E9732;stroke-width:0.567;stroke-miterlimit:10;}
+	.st68{fill:#FF9F9F;}
+</style>
+<g>
+	<path class="st36" d="M44.44,0.85c-5.8,0-11.04,3.18-14.03,8.04c-9.35,16.09-18.9,32.18-28.43,48.27
+		c-0.56,1.12-1.12,2.62-1.12,3.93c0,1.5,0.56,2.81,1.12,3.94c9.54,16.09,19.08,32.36,28.81,48.64c2.81,5.05,8.23,8.04,13.84,8.04
+		h233.69c8.98,0,16.09-7.29,16.09-16.09c0-29.56,0-59.12,0.19-88.67c0-8.79-7.3-16.09-16.27-16.09H44.44z"/>
+	<path class="st43" d="M44.44,0.85c-5.8,0-11.04,3.18-14.03,8.04c-9.35,16.09-18.9,32.18-28.43,48.27
+		c-0.56,1.12-1.12,2.62-1.12,3.93c0,1.5,0.56,2.81,1.12,3.94c9.54,16.09,19.08,32.36,28.81,48.64c2.81,5.05,8.23,8.04,13.84,8.04
+		h233.69c8.98,0,16.09-7.29,16.09-16.09c0-29.56,0-59.12,0.19-88.67c0-8.79-7.3-16.09-16.27-16.09H44.44z"/>
+	<path class="st41" d="M44.44,113.28c-2.99,0-5.61-1.5-7.11-3.93C28.54,94.2,19.74,79.04,10.76,63.89
+		c-0.56-0.93-1.12-1.87-1.87-2.81c0.75-1.31,1.5-2.62,2.43-3.93c8.61-14.59,17.4-29.37,26.2-44.15c1.31-2.43,4.11-3.93,6.92-3.93
+		c77.84,0,155.67,0,233.69,0.19c4.3,0,8.05,3.74,8.05,8.05v88.11c0,4.3-3.74,8.05-8.05,8.05
+		C200.29,113.47,122.46,113.47,44.44,113.28"/>
+	<path class="st36" d="M155.76,91.77h-6.73l-1.69,5.43h-5.05l9.92-30.86h6.74l9.91,30.86h-5.05l-1.87-5.43H155.76z M160.63,87.46
+		h-10.11l5.05-15.53L160.63,87.46z"/>
+	<path class="st36" d="M270.27,73.62l-4.86,2.25c-1.31-2.81-3.74-5.42-7.68-5.42c-4.86,0-9.35,4.48-9.35,11.04
+		c0,6.36,3.56,11.78,9.35,11.78c5.62,0,7.3-4.86,7.68-5.42l4.86,2.24c-1.12,2.25-4.48,7.86-12.54,7.86
+		c-8.23,0-14.78-5.99-14.78-16.09c0-10.85,7.68-16.09,14.41-16.09C264.1,65.77,268.21,69.5,270.27,73.62"/>
+	<polygon class="st36" points="185.7,66.33 176.16,66.33 176.16,97.19 181.4,97.19 181.4,83.91 194.31,83.91 194.31,79.04 
+		181.4,79.04 181.4,71 195.62,71 195.62,66.33 187.76,66.33 	"/>
+	<rect x="228.73" y="66.33" class="st0" width="5.62" height="30.86"/>
+	<polygon class="st36" points="97.2,97.19 99.63,97.19 99.63,71.19 108.05,71.19 108.05,66.33 85.98,66.33 85.98,71.19 94.21,71.19 
+		94.21,97.19 96.64,97.19 	"/>
+	<path class="st36" d="M127.14,66.33h-12.72v30.86h5.61V85.03h5.43l5.61,12.16h5.99l-6.37-12.91c1.68-0.94,5.61-3.56,5.61-8.8
+		C136.3,70.44,131.82,66.33,127.14,66.33 M126.21,71h-6.18v9.35l6.18-0.01c2.62,0,4.67-2.43,4.67-4.86
+		C130.88,73.25,128.64,71,126.21,71"/>
+	<polygon class="st36" points="212.08,66.33 202.54,66.33 202.54,97.19 207.78,97.19 207.78,83.91 220.69,83.91 220.69,79.04 
+		207.78,79.04 207.78,71 222,71 222,66.33 214.14,66.33 	"/>
+	<polygon class="st36" points="212.83,27.23 212.83,22.18 207.59,22.18 207.59,53.04 212.83,53.04 212.83,43.5 217.32,38.26 
+		225.74,53.04 231.54,53.04 220.69,34.34 231.17,22.18 225.37,22.18 212.83,36.58 	"/>
+	<path class="st36" d="M154.27,26.47c6.37,0,9.36,6.18,9.36,11.23c0,4.87-2.99,11.23-9.36,11.23c-6.17,0-9.35-6.36-9.35-11.23
+		C144.91,32.65,148.1,26.47,154.27,26.47 M154.27,21.61c8.05,0,14.97,6.54,14.97,15.9c0,9.35-6.55,16.28-14.97,16.28
+		c-8.23,0-14.78-6.92-14.78-16.28C139.49,28.16,146.41,21.61,154.27,21.61"/>
+	<path class="st36" d="M188.69,22.18h-12.72v30.86h5.61V40.88h5.43l5.61,12.16h5.99l-6.36-12.91c1.69-0.94,5.62-3.56,5.62-8.8
+		C197.86,26.29,193.56,22.18,188.69,22.18 M187.76,26.85h-6.17v9.35h6.17c2.62,0,4.68-2.43,4.68-4.87
+		C192.44,29.1,190.19,26.85,187.76,26.85"/>
+	<path class="st36" d="M259.98,26.66l-4.3,2.99c-1.68-1.68-3.93-3.55-7.49-3.55c-3.36,0-5.79,2.05-5.79,4.11
+		c0,3.18,2.24,3.93,6.92,4.68c3.18,0.56,5.61,0.75,7.86,2.62c2.05,1.68,3.18,3.93,3.18,6.74c0,2.62-1.68,9.54-11.79,9.54
+		c-7.85,0-11.6-4.3-13.09-5.99l4.68-3.37c2.06,2.99,5.61,4.68,8.04,4.68c2.44,0,6.74-0.94,6.74-4.87c0-3.74-4.67-4.11-9.17-4.87
+		c-4.3-0.75-8.8-2.99-8.8-8.98c0-5.99,5.8-8.79,11.23-8.79C253.81,21.61,257.55,23.3,259.98,26.66"/>
+	<polygon class="st36" points="115.35,22.18 113.1,22.18 108.05,43.69 102.82,22.18 97.2,22.18 104.32,53.04 110.67,53.04 
+		116.29,29.84 121.71,53.04 128.07,53.04 135.37,22.18 129.76,22.18 124.52,43.69 119.47,22.18 116.85,22.18 	"/>
+	<polygon class="st36" points="47.44,16 71.76,16 45.18,61.08 71.76,106.17 47.44,106.17 20.86,61.08 47.44,16.19 	"/>
+</g>
+</svg>

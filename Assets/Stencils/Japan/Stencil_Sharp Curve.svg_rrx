@@ -1,0 +1,37 @@
+FileVersion: 4
+Uuid: {878e082d-0cbc-4679-967b-1c3e9ce8c157}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 28.35 629.29" style="enable-background:new 0 0 28.35 629.29;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+</style>
+<g id="Layer_1">
+</g>
+<g id="Layer_2">
+</g>
+<g id="C1_Expressway_Guidelines">
+</g>
+<g id="Layer_4">
+</g>
+<g id="Layer_3">
+	<polygon class="st0" points="0,23.78 6.32,23.78 9.22,13.43 21.8,13.43 15.96,28.75 22.54,28.75 28.35,13.34 28.35,0 5.55,0 	"/>
+	<polygon class="st0" points="0,32.48 28.35,32.48 28.35,79.7 0,79.7 0,66.86 22.54,66.86 22.54,60.65 3.07,60.65 3.07,50.71 
+		22.54,50.71 22.54,45.32 0,45.32 	"/>
+	<path class="st0" d="M8.45,82.6h5.82v21.54h14.07v14.92H8.45C8.45,119.06,8.45,81.87,8.45,82.6z"/>
+	<polygon class="st0" points="1.5,85.57 0,119.06 5.45,119.06 7.25,85.57 	"/>
+	<rect x="16.77" y="82.34" class="st0" width="4.79" height="18.69"/>
+	<rect x="23.38" y="82.34" class="st0" width="4.96" height="18.69"/>
+	<polygon class="st0" points="-0.02,189.48 0.16,206.6 8.08,206.54 0,289.14 5.96,289.11 14.07,206.54 20.02,206.54 14.21,288.93 
+		20.15,288.93 28.26,189.12 15.77,189.48 19.18,164.44 14.03,164.26 10.54,189.48 	"/>
+	<rect x="10.74" y="334.27" class="st0" width="6.16" height="124.83"/>
+	<polygon class="st0" points="0,504.57 28.35,504.57 6.24,629.24 0,629.24 21.44,522.12 -0.06,522.04 	"/>
+	<rect x="17.38" y="568.76" class="st0" width="4.05" height="23.79"/>
+	<rect x="24.16" y="568.76" class="st0" width="4.19" height="23.79"/>
+</g>
+</svg>

@@ -1,0 +1,128 @@
+FileVersion: 4
+Uuid: {1c8de7ee-ad85-4c06-b105-f367a037598a}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 523.45 161.1" style="enable-background:new 0 0 523.45 161.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#0079C1;}
+	.st2{fill:#EC1D24;}
+	.st3{clip-path:url(#SVGID_00000160152337972008517610000007167585259381109679_);}
+	.st4{fill:none;stroke:#0079C1;stroke-width:10;}
+	.st5{clip-path:url(#SVGID_00000099631683393058791740000008878806349189266365_);}
+	.st6{fill:none;stroke:#0079C1;stroke-width:3.7514;}
+	.st7{fill:#FFFFFF;stroke:#0079C1;}
+	.st8{display:none;fill:#FFFFFF;}
+	.st9{fill:#FFFFFF;stroke:#29ABE2;stroke-miterlimit:10;}
+	.st10{fill:#FFFFFF;stroke:#0079C1;stroke-width:0.3;}
+	.st11{fill:none;stroke:#0079C1;stroke-miterlimit:10;}
+	.st12{fill:#E31E26;}
+	.st13{fill:#E10000;}
+	.st14{fill:#FFFFFF;stroke:#1478C7;stroke-width:6;}
+	.st15{fill:#1478C7;}
+	.st16{fill:#E22739;}
+	.st17{fill:#808080;}
+	.st18{fill:none;stroke:#000000;}
+	.st19{fill:#231F20;}
+	.st20{fill:#FFFFFF;stroke:#0079C1;stroke-width:3;}
+	.st21{fill:#FFD421;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-width:2.1836;}
+	.st23{fill:#FFFFFF;stroke:#000000;stroke-width:0.3;}
+	.st24{fill:none;stroke:#EC1D24;stroke-width:90;stroke-linejoin:round;}
+	.st25{fill:#FAFAFB;}
+	.st26{fill:none;stroke:#000000;stroke-width:0.18;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#231F20;stroke-width:0.5084;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#EC1D24;stroke-width:10;}
+	.st29{opacity:0.99;enable-background:new    ;}
+	.st30{fill:#4D9523;}
+	.st31{fill:#E31937;}
+	.st32{fill:#FFFFFF;stroke:#794400;}
+	.st33{fill:#794400;}
+	.st34{fill:#FFD200;}
+	.st35{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
+	.st36{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st37{fill:#EC1C24;}
+	.st38{fill:none;stroke:#0079C1;stroke-width:1.7;stroke-miterlimit:10;}
+	.st39{fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;}
+	.st40{fill-rule:evenodd;clip-rule:evenodd;fill:#BBBDBF;}
+	.st41{fill-rule:evenodd;clip-rule:evenodd;fill:#EC1C24;}
+	.st42{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD420;}
+	.st43{fill:none;stroke:#EC1C24;stroke-width:1.7;stroke-miterlimit:10;}
+	.st44{fill:none;stroke:#E03A3E;stroke-width:0.144;stroke-miterlimit:10;}
+	.st45{fill:none;stroke:#00703C;stroke-width:1.7;stroke-miterlimit:10;}
+	.st46{fill-rule:evenodd;clip-rule:evenodd;fill:#00703C;}
+	.st47{fill-rule:evenodd;clip-rule:evenodd;fill:#E31937;}
+	.st48{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;}
+	.st49{fill:none;stroke:#231F20;stroke-width:11.524;stroke-miterlimit:10;}
+	.st50{fill:none;stroke:#231F20;stroke-width:6;stroke-miterlimit:10;}
+	.st51{fill:none;stroke:#EE4431;stroke-width:0.428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st52{fill:#FF0000;}
+	.st53{clip-path:url(#SVGID_00000023247082108461918050000018193444794217061566_);fill:#ED1C24;}
+	.st54{fill:none;stroke:#0079C1;stroke-width:2.268;stroke-miterlimit:10;}
+	.st55{fill:none;stroke:#0079C1;stroke-width:2.268;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st56{fill:none;stroke:#794400;stroke-width:1.7;stroke-miterlimit:10;}
+	.st57{fill-rule:evenodd;clip-rule:evenodd;fill:#794400;}
+	.st58{fill:#FFFFFF;stroke:#000000;}
+	.st59{fill-rule:evenodd;clip-rule:evenodd;fill:#B2B4B7;}
+	.st60{fill-rule:evenodd;clip-rule:evenodd;fill:#E03A3E;}
+	.st61{fill:none;stroke:#231F20;stroke-width:4.32;stroke-miterlimit:10;}
+	.st62{fill:none;stroke:#231F20;stroke-width:4.468;stroke-miterlimit:10;}
+	.st63{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#0079C1;stroke-width:0.5669;stroke-miterlimit:10;}
+	.st64{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#5E9732;stroke-width:0.5669;stroke-miterlimit:10;}
+	.st65{fill-rule:evenodd;clip-rule:evenodd;fill:#5E9732;}
+	.st66{fill:none;stroke:#231F20;stroke-width:0.036;stroke-miterlimit:10;}
+	
+		.st67{clip-path:url(#SVGID_00000166676913635222062170000016383370515968223620_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#5E9732;stroke-width:0.567;stroke-miterlimit:10;}
+	.st68{fill:#FF9F9F;}
+</style>
+<g>
+	<g>
+		<g>
+			<g>
+				<rect x="3" y="3" class="st48" width="517.45" height="155.1"/>
+				<rect x="3" y="3" class="st50" width="517.45" height="155.1"/>
+				<path class="st35" d="M342.64,61.57h-4.4l-2.31,6.94h-7.88l12.27-38.2h9.72l12.5,38.2h-7.87l-2.32-6.94h-4.86H342.64z
+					 M343.56,54.85h-3.24l4.87-15.04l5.09,15.04h-3.24H343.56z"/>
+				<path class="st35" d="M216,42.82l7.18-3.24c-2.55-4.87-8.11-9.96-15.98-9.96c-7.87,0-18.06,5.78-18.06,19.44
+					s9.96,19.91,18.06,19.91c5.32,0,9.03-2.31,9.72-2.77v2.32h6.72V46.75h-16.2V53h9.49c0,3.7-3.47,9.03-9.72,9.03
+					c-6.25,0-10.19-5.56-10.19-12.74c0-7.41,4.39-12.27,9.96-12.27C212.29,37.02,214.84,40.04,216,42.82"/>
+				<polygon class="st35" points="141.22,52.3 137.05,52.3 137.05,68.51 129.64,68.51 129.64,30.31 137.05,30.31 137.05,45.36 
+					152.79,45.36 152.79,30.31 160.2,30.31 160.2,68.51 152.79,68.51 152.79,52.3 147.94,52.3 				"/>
+				<rect x="173.05" y="30.31" class="st19" width="7.4" height="38.2"/>
+				<polygon class="st35" points="297.72,30.31 294.72,30.31 289.39,56.01 283.37,30.31 275.5,30.31 284.06,68.51 293.55,68.51 
+					298.88,40.5 304.67,68.51 313.93,68.51 322.49,30.31 314.39,30.31 308.84,56.01 303.28,30.31 300.96,30.31 				"/>
+				<polygon class="st35" points="371.35,30.31 366.25,30.31 378.98,53 378.98,68.51 386.63,68.51 386.63,53.23 399.13,30.31 
+					390.57,30.31 382.69,45.13 375.06,30.31 				"/>
+				<polygon class="st35" points="247.48,52.3 243.32,52.3 243.32,68.51 235.91,68.51 235.91,30.31 243.32,30.31 243.32,45.36 
+					259.06,45.36 259.06,30.31 266.47,30.31 266.47,68.51 259.06,68.51 259.06,52.3 254.2,52.3 				"/>
+				<path class="st35" d="M438.72,107.17l-7.4,3.01c-1.39-3.47-3.71-7.4-9.5-7.4c-5.78,0-9.96,5.32-9.96,12.03
+					c0,6.72,4.17,12.27,9.96,12.27c5.79,0,8.57-4.86,9.5-7.63l7.4,3.01c-1.85,4.4-6.94,12.03-16.67,12.03
+					c-10.42,0-18.29-8.33-18.29-19.91c0-11.34,8.79-19.22,18.05-19.22C431.08,95.36,436.41,101.61,438.72,107.17"/>
+				<polygon class="st35" points="251.42,95.83 238.91,95.83 238.91,134.25 264.85,134.25 264.85,127.07 246.33,127.07 
+					246.33,118.51 262.07,118.51 262.07,111.34 246.33,111.34 246.33,103 263.69,103 263.69,95.83 257.21,95.83 				"/>
+				<polygon class="st35" points="88.66,117.82 88.66,134.25 81.26,134.25 81.26,106.25 69.68,122.45 57.87,106.25 57.87,134.25 
+					50.7,134.25 50.7,95.83 59.95,95.83 69.68,109.49 79.17,95.83 88.66,95.83 88.66,106.94 				"/>
+				<polygon class="st35" points="164.6,95.83 167.61,95.83 186.36,122.22 186.36,95.83 193.77,95.83 193.77,134.25 185.2,134.25 
+					167.84,108.1 167.84,134.25 160.2,134.25 160.2,95.83 162.05,95.83 				"/>
+				<polygon class="st35" points="224.1,103 219.94,103 219.94,134.25 212.29,134.25 212.29,103 201.41,103 201.41,95.83 
+					230.58,95.83 230.58,103 226.18,103 				"/>
+				<path class="st35" d="M111.35,127.31h-4.39l-2.32,6.94h-7.87l12.27-38.19h9.72l12.5,38.19h-8.1l-2.08-6.94h-4.86H111.35z
+					 M112.28,120.6h-3.24l4.86-15.05l4.86,15.05h-3.24H112.28z"/>
+				<rect x="140.64" y="95.83" class="st19" width="7.4" height="38.42"/>
+				<polygon class="st35" points="280.13,95.83 283.14,95.83 301.9,122.22 301.9,95.83 309.53,95.83 309.53,134.25 300.73,134.25 
+					283.37,108.1 283.37,134.25 275.73,134.25 275.73,95.83 277.58,95.83 				"/>
+				<path class="st35" d="M331.76,127.31h-4.4l-2.32,6.94h-7.87l12.49-38.19h9.5l12.5,38.19h-7.87l-2.32-6.94h-4.63H331.76z
+					 M332.69,120.6h-3.01l4.63-15.05l5.09,15.05h-3.25H332.69z"/>
+				<polygon class="st35" points="365.1,95.83 368.11,95.83 386.86,122.22 386.86,95.83 394.26,95.83 394.26,134.25 385.71,134.25 
+					368.34,108.1 368.34,134.25 360.7,134.25 360.7,95.83 362.55,95.83 				"/>
+				<polygon class="st35" points="460.94,95.83 448.45,95.83 448.45,134.25 474.38,134.25 474.38,127.07 455.85,127.07 
+					455.85,118.51 471.6,118.51 471.6,111.34 455.85,111.34 455.85,103 473.22,103 473.22,95.83 466.96,95.83 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
